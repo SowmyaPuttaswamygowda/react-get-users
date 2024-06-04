@@ -1,0 +1,12 @@
+header {
+    background-color: rgb(164, 76, 76);
+    text-transform: uppercase;
+    font-size: 36px;
+    color:rgb(208, 251, 18);
+    text-align: center;
+    padding: 20px;
+}
+h1 {
+    font-size:26px ;
+    align-items: center;
+}

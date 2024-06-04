@@ -1,0 +1,31 @@
+.user-card {
+    border:2px solid #ccc;
+    padding: 20px;
+    margin:20px auto;
+    border-radius:10px;
+    box-shadow: rgb(145, 152, 166);
+    width:50%;
+    font-family: Arial, Helvetica, sans-serif;
+   
+}
+
+.user-card h2 {
+    color:rgb(129 41 19);
+    text-align: center;  
+}
+
+.address,
+.company {
+    margin-top: 15px;
+    padding-left: 15px;
+    border-left:2px solid rgb(183, 186, 88);
+   
+}
+
+.address h3,
+.company h3 {
+    color:rgb(18, 238, 212);
+}
+.company h3 {
+    color:#1d6ff5;
+}
